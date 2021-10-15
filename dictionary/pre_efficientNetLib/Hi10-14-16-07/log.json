@@ -1,0 +1,37 @@
+{
+    "time_exp_start": "10-14-16-07",
+    "train_dir": "E:/experiments/DEEPLEARNING/classification/data/CUB_200_2011/images/",
+    "val_dir": "E:/experiments/DEEPLEARNING/classification/data/CUB_200_2011/val/",
+    "epochs": 200,
+    "save_station": 80,
+    "num_workers": 4,
+    "num_classes": 200,
+    "data_mean": [
+        0.48631132,
+        0.50019769,
+        0.4325376
+    ],
+    "data_std": [
+        0.18217433,
+        0.18107501,
+        0.19290891
+    ],
+    "model": "pre_efficientNetLib",
+    "batch_size": 4,
+    "test_batch_size": 4,
+    "lr": 0.1,
+    "milestones": [
+        25,
+        50,
+        75,
+        100,
+        150,
+        200
+    ],
+    "step": 3,
+    "gamma": 0.963,
+    "warmup_epoch": 5,
+    "momentum": 0.5,
+    "weight_decay": 1e-05,
+    "directory": "dictionary/pre_efficientNetLib/Hi10-14-16-07/"
+}
