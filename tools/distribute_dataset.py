@@ -2,8 +2,8 @@ import os
 import shutil
 from tqdm import tqdm
 
-data_dir = 'C:/Users/admin/Desktop/CUB_200_2011/images/'
-val_save_dir = 'C:/Users/admin/Desktop/CUB_200_2011/val/'
+data_dir = 'C:/Users/布鲁瓦丝甜甜文/Desktop/first_classification/images/'
+val_save_dir = 'C:/Users/布鲁瓦丝甜甜文/Desktop/first_classification/val/'
 val_rate = 0.2
 
 

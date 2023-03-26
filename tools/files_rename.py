@@ -6,7 +6,7 @@ def rename():
     # pseudo_data
     # path = 'D:/01_DEEPLAENING_FOLDER_by_LIN/DEEPLEARNING/LINTorch/DATA/pseudo_data/images/'
     # path = 'D:/01_DEEPLAENING_FOLDER_by_LIN/DEEPLEARNING/LINTorch/DATA/pseudo_data/labels/'
-    path = 'C:/Users/admin/Desktop/DogsVsCats_dogs-vs-cats-redux-kernels-edition/test/'
+    path = 'C:/Users/布鲁瓦丝甜甜文/Desktop/常见哺乳动物数据集/'
     # path = 'D:/01_DEEPLAENING_FOLDER_by_LIN/DEEPLEARNING/LINTorch/DATA/labels/'
     name = input("请输入开头名:")
     start_number = input("请输入开始数:")
