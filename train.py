@@ -41,7 +41,7 @@ def get_args():
     parser.add_argument('--data_std', type=tuple, default=[.5, .5, .5])
 
     # model
-    parser.add_argument('--model', type=str, default='ResNet18RandomEncoder',
+    parser.add_argument('--model', type=str, default='ResNet18',
                         choices=[
                             'ResNet18',
                             'ResNet34',
